@@ -60,9 +60,12 @@
           <a href="https://code.claude.com/docs/en/setup">Claude Code</a> need it installed in order to run, and
           other harnesses are supported through adapters. On Windows, install Claude Code by running
           <code>irm https://claude.ai/install.ps1 | iex</code> in PowerShell. The Claude desktop app is a
-          different product and does not provide it.</li>
-          <li class="warn">This pilot build is unsigned. Windows will show
-          <em>“Windows protected your PC.”</em> Click <strong>More info → Run anyway</strong>.</li>
+          different product and does not provide it. If its installer says <code>.local\bin</code> is
+          not on your PATH, that does not matter to Alter Ego, which finds Claude Code there by itself.</li>
+          <li class="warn">This pilot build is unsigned, so Windows is cautious about it. In Edge, the
+          download is held as <em>“isn't commonly downloaded”</em>: open Downloads, choose
+          <strong>… → Keep</strong>, then <strong>Show more → Keep anyway</strong>. If Windows then shows
+          <em>“Windows protected your PC,”</em> click <strong>More info → Run anyway</strong>.</li>
         </ul>
       </section>
 
