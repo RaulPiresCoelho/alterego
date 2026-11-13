@@ -1,7 +1,7 @@
 {
-  "version": "0.4.8",
-  "artefactUrl": "https://github.com/RaulPiresCoelho/alterego/releases/download/v0.4.8/AlterEgoSetup.exe",
-  "notesUrl": "https://github.com/RaulPiresCoelho/alterego/releases/tag/v0.4.8",
-  "sha256": "e219392d4dbcef9038ccf3cdf9989d9cc1ca8a37f67f7a8a96ea346e9c1ae2a6",
-  "commit": "5488ffa58dc4b8d777ce23012de62e169c04c08c"
+  "version": "0.4.9",
+  "artefactUrl": "https://github.com/RaulPiresCoelho/alterego/releases/download/v0.4.9/AlterEgoSetup.exe",
+  "notesUrl": "https://github.com/RaulPiresCoelho/alterego/releases/tag/v0.4.9",
+  "sha256": "375990572b5215bed2645db0de30c986e801e7d4d31471c31532d9efa1391eef",
+  "commit": "bdc100a7466ceacff177bb5ee3707fb38514c17c"
 }
